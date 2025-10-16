@@ -23,3 +23,5 @@ Tujuannya untuk membantu user menyimpan catatan melalui web
 - HTML
 - CSS
 - Javascript
+# Link yt:
+https://youtu.be/NUHFTX9zkMw?si=-7jsjEelnvLbofEr
