@@ -1,1 +1,0 @@
-# UTS-DTP-Programmer-Abiyan-Fiqhi
